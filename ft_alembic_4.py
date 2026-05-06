@@ -12,7 +12,7 @@ def main() -> None:
     except AttributeError:
         print("Testing the hidden create_earth: ")
         raise
-    
+
 
 if __name__ == "__main__":
     main()
